@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on exciting projects.
 - 📫 How to reach me \
      Email: giriaakash00@gmail.com, \
-     LinkedIn: https://www.linkedin.com/in/aakash-giri-67713810a
+     LinkedIn: https://www.linkedin.com/in/aakash-giri/
 
 <!---
 0APOCALYPSE0/0APOCALYPSE0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
