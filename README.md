@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning react and node.
 - 💞️ I’m looking to collaborate on exciting projects.
 - 📫 How to reach me \
-     Email: giriaakash00@gmail.com, \
-     LinkedIn: https://www.linkedin.com/in/aakash-giri/
-     Leetcode: https://leetcode.com/giriaakash00/
+     Email: giriaakash00@gmail.com \
+     LinkedIn: https://www.linkedin.com/in/aakash-giri/ \
+     Leetcode: https://leetcode.com/giriaakash00/ \
      Hackerrank: https://hackerrank.com/giriaakash00/
 
 <!---
