@@ -9,6 +9,8 @@
      Hackerrank: https://hackerrank.com/giriaakash00/
 
 ---
+[![An image of @0apocalypse0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0apocalypse0)](https://holopin.io/@0apocalypse0)
+---
 
 ### :fire: My Stats :
 
